@@ -1,0 +1,22 @@
+{
+  "name": "muxt",
+  "version": "0.0.0-Alpha",
+  "description": "ExpressJS & MashedJS Vue layout & server-side rendering engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mashyindustries/muxt.git"
+  },
+  "contributors": [
+    "Albert Mashy",
+    "Kyia Don Gavemi"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mashyindustries/muxt/issues"
+  },
+  "homepage": "https://github.com/mashyindustries/muxt#readme"
+}
